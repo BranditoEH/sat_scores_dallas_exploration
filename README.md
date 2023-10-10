@@ -1,6 +1,6 @@
-# SAT Scores Exploration: Charter vs. Public Schools in Dallas County (2015-2021)
+# SAT Scores Exploration: Charter vs. Public Schools in Dallas County (2015-2021) - A Deep Dive into Economic Disparities and Teacher Salaries
 ## Overview
-This project aims to provide a comprehensive exploratory data analysis (EDA) of SAT scores from charter and public schools across Dallas County from 2015 to 2021. By analyzing and contrasting these scores, we aim to unveil patterns, trends, and potential disparities that could serve as valuable insights for educational decision-makers in the county.
+This project offers a deep analysis of SAT scores from charter and public schools across Dallas County from 2015 to 2021. While the primary aim is to compare charter and public schools, a secondary focus dives into the nuances of economic disparities among students and the potential correlation of teacher salaries with SAT scores.
 
 ## Table of Contents
 + ### Dataset Description
@@ -14,36 +14,35 @@ This project aims to provide a comprehensive exploratory data analysis (EDA) of 
 ## Dataset Description
 The dataset encompasses SAT scores from various schools across Dallas County, categorized as either charter or public. Each entry captures:
 
-Type (Charter/Public)
-Year (from 2015 to 2021)
-Average SAT Score
-These are raw observations, ensuring a firsthand look without pre-aggregated metrics influencing the view.
++ Type (Charter/Public)
++ Year (from 2015 to 2021)
++ Economic Status: Economically Disadvantaged or Not.
++ Teacher Salary: Average base pay for teaching staff.
++ Average SAT Score
 
 ### Link to Dataset 
 
 ## Avenues of Exploration
-1. **Performance Trends:** How has the SAT performance evolved over the years for both school categories across Dallas County?
-2. **Score Disparity:** Is there a discernible difference in average SAT scores when comparing charter schools to public ones?
-3. **Outliers and Anomalies:** Are specific schools or years notably different in performance metrics?
+1. **Performance Trends:** Analyze the evolution of SAT performance over the years.
+2. **Charter vs. Public:** Compare average SAT scores between charter and public schools.
+3. **Economic Disparity:**  Examine SAT scores based on students' economic status.
+4. **Correlation with Teacher Salary:** Delve into any connections between teacher salaries and SAT performance.
 
 ## Value Proposition
-By unraveling the intricacies of SAT performance across different school types, stakeholders, including policymakers, educators, and parents, can:
-+ Gain insights on where to direct resources and interventions.
-+ Understand the broader educational landscape of Dallas ISD.
-+ Make informed decisions regarding academic strategies and plans.
+This analysis endeavors to elucidate the educational landscape of Dallas ISD, benefiting stakeholders such as policymakers, educators, and parents. By understanding these dynamics, informed decisions can be made regarding academic strategies, resource allocation, and more.
 
 ## Quick Stats
-+ **Total Observations:** X
-+ **Number of Charter Schools:** X
-+ **Number of Public Schools:** X
-+**Average SAT Score (Charter):** X
-+**Average SAT Score (Public):** X
++ **Total Observations:** 218 School in Dallas County
++ **Number of Charter Schools:** 120
++ **Number of Public Schools:** 98
++ **Average Teacher Salary:** From 2015-2021 51,492.64
++ **Average SAT Score Overall:** 977.83 
 
 ## Visualizations
 Provide links or embed key visualizations from your Jupyter notebooks that depict compelling findings.
 
 ## Conclusions
-Post-EDA, encapsulate the primary insights and findings here.
+After an exhaustive exploratory data analysis, our findings have been summarized to provide meaningful insights into Dallas County's educational dynamics.
 
 ## References
-Dallas County educational databases and reports (or other pertinent sources)
+Texas Education Agency
