@@ -39,7 +39,17 @@ This analysis endeavors to elucidate the educational landscape of Dallas ISD, be
 + **Average SAT Score Overall:** 977.83 
 
 ## Visualizations
-Provide links or embed key visualizations from your Jupyter notebooks that depict compelling findings.
+![Alt Text](Graphics/Avg SAT pub school.png)
+![Alt Text](Graphics/Average SAT Scores for All Students Over the Years in Charter School.png)
+![Alt Text](Graphics/Average Total Scores for Total Students in Dallas County Over the Years.png)
+![Alt Text](Graphics\Average Base Pay for TOTAL TEACHING STAFF Over the Years.png)
+![Alt Text](Graphics\Average Total Scores for Economically Disadvantaged Students in Dallas County Over the Years.png)
+![Alt Text](Graphics\Average Total Scores for Not Economically Disadvantaged Students in Dallas County Over the Years.png)
+
+
+
+
+
 
 ## Conclusions
 After an exhaustive exploratory data analysis, our findings have been summarized to provide meaningful insights into Dallas County's educational dynamics.
