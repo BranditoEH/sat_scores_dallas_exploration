@@ -20,7 +20,19 @@ The dataset encompasses SAT scores from various schools across Dallas County, ca
 + Teacher Salary: Average base pay for teaching staff.
 + Average SAT Score
 
-### Link to Dataset 
+## Null & Alternate Hypotheses
+1. Public Schools vs. Charter Schools SAT Score:
+Null Hypothesis: The average SAT scores for public schools are equal to those of charter schools.
+Alternate Hypothesis: The average SAT scores for public schools are not equal to those of charter schools.
+  + Given the data provided, one might use a paired t-test for each year (as the data appears to be paired by year) to test this hypothesis. The significance of the result would indicate if there's a consistent difference between the two types of schools over the years.
+
+2. Correlation between Teacher Salary and Overall SAT Score:
+Null Hypothesis: There is no correlation between average teacher salaries and overall average SAT scores.
+Alternate Hypothesis: There is a correlation between average teacher salaries and overall average SAT scores.
+
+3. SAT Scores: Economically Disadvantaged vs. Not Economically Disadvantaged:
+Null Hypothesis: The average SAT scores for Economically Disadvantaged students are equal to those of Not Economically Disadvantaged students.
+Alternate Hypothesis: The average SAT scores for Economically Disadvantaged students are not equal to those of Not Economically Disadvantaged students.
 
 ## Avenues of Exploration
 1. **Performance Trends:** Analyze the evolution of SAT performance over the years.
